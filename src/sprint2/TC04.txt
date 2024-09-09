@@ -1,0 +1,7 @@
+test n 4
+
+ok
+
+test
+
+test
